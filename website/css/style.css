@@ -1,0 +1,22 @@
+html, body {
+    background: #162960;
+}
+
+.title-bar {
+    /*background: #fada92;*/
+    height: 400px;
+}
+.title {
+    color: #f4b425;
+    text-align: center;
+}
+
+.img-title {
+    margin: auto;
+    display: block;
+
+    max-width: 100%;
+    max-height: 100%;
+
+    border: #f4b425 3px solid;
+}
