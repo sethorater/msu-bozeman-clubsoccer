@@ -3,10 +3,10 @@ html, body {
 }
 
 .title-bar {
-    /*background: #fada92;*/
     height: 400px;
 }
 .title {
+    font-family: Copperplate, Sans-Serif;
     color: #f4b425;
     text-align: center;
 }
